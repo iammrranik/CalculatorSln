@@ -1,0 +1,11 @@
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\bin\Debug\CalculatorPro.exe.config
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\bin\Debug\CalculatorPro.exe
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\bin\Debug\CalculatorPro.pdb
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.csproj.AssemblyReference.cache
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.Design.resources
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.Properties.Resources.resources
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.csproj.GenerateResource.cache
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.csproj.CoreCompileInputs.cache
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.exe
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.pdb
+C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.exe.config

@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madma\\OneDrive\\Desktop\\CalculatorSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00F0D86A-306C-499B-88FD-CEE3415677A7}|CalculatorPro\\CalculatorPro.csproj|c:\\users\\madma\\onedrive\\desktop\\calculatorsln\\calculatorpro\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00F0D86A-306C-499B-88FD-CEE3415677A7}|CalculatorPro\\CalculatorPro.csproj|solutionrelative:calculatorpro\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F0D86A-306C-499B-88FD-CEE3415677A7}|CalculatorPro\\CalculatorPro.csproj|C:\\Users\\madma\\OneDrive\\Desktop\\CalculatorSln\\calculatorpro\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F0D86A-306C-499B-88FD-CEE3415677A7}|CalculatorPro\\CalculatorPro.csproj|solutionrelative:calculatorpro\\design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CalculatorPro||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F0D86A-306C-499B-88FD-CEE3415677A7}|CalculatorPro\\CalculatorPro.csproj|c:\\users\\madma\\onedrive\\desktop\\calculatorsln\\calculatorpro\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{00F0D86A-306C-499B-88FD-CEE3415677A7}|CalculatorPro\\CalculatorPro.csproj|solutionrelative:calculatorpro\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorPro",
+              "DocumentMoniker": "C:\\Users\\madma\\OneDrive\\Desktop\\CalculatorSln\\CalculatorPro\\CalculatorPro.csproj",
+              "RelativeDocumentMoniker": "CalculatorPro\\CalculatorPro.csproj",
+              "ToolTip": "C:\\Users\\madma\\OneDrive\\Desktop\\CalculatorSln\\CalculatorPro\\CalculatorPro.csproj",
+              "RelativeToolTip": "CalculatorPro\\CalculatorPro.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-26T01:58:59.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Design.cs",
+              "DocumentMoniker": "C:\\Users\\madma\\OneDrive\\Desktop\\CalculatorSln\\CalculatorPro\\Design.cs",
+              "RelativeDocumentMoniker": "CalculatorPro\\Design.cs",
+              "ToolTip": "C:\\Users\\madma\\OneDrive\\Desktop\\CalculatorSln\\CalculatorPro\\Design.cs",
+              "RelativeToolTip": "CalculatorPro\\Design.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:56:05.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Design.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\madma\\OneDrive\\Desktop\\CalculatorSln\\CalculatorPro\\Design.cs",
+              "RelativeDocumentMoniker": "CalculatorPro\\Design.cs",
+              "ToolTip": "C:\\Users\\madma\\OneDrive\\Desktop\\CalculatorSln\\CalculatorPro\\Design.cs [Design]",
+              "RelativeToolTip": "CalculatorPro\\Design.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:17:01.428Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
