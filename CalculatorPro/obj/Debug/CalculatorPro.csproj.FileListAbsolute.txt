@@ -9,3 +9,13 @@ C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPr
 C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.exe
 C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.pdb
 C:\Users\unknown\source\repos\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.exe.config
+F:\Github Projects\CalculatorSln\CalculatorPro\bin\Debug\CalculatorPro.exe.config
+F:\Github Projects\CalculatorSln\CalculatorPro\bin\Debug\CalculatorPro.exe
+F:\Github Projects\CalculatorSln\CalculatorPro\bin\Debug\CalculatorPro.pdb
+F:\Github Projects\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.csproj.AssemblyReference.cache
+F:\Github Projects\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.Design.resources
+F:\Github Projects\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.Properties.Resources.resources
+F:\Github Projects\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.csproj.GenerateResource.cache
+F:\Github Projects\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.csproj.CoreCompileInputs.cache
+F:\Github Projects\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.exe
+F:\Github Projects\CalculatorSln\CalculatorPro\obj\Debug\CalculatorPro.pdb
